@@ -9,7 +9,7 @@ namespace JobJoy.Controllers
     [Authorize]
     public class HomeController : Controller
     {
-        private static string ApiKey = "AIzaSyBjX260O1uOmbOH1lSFObVnzBh0LaWcwvk";
+        private static string ApiKey = "AIzaSyCpSd1CNwMNwVwsuo95J76F8Xj_GI7Utrs";
         private static string AuthEmail = "";
         private static string AuthPassword = "";
         private static string Bucket = "https://jobjoyusn-default-rtdb.europe-west1.firebasedatabase.app/";
